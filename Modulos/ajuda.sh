@@ -3,8 +3,8 @@ clear
 echo -e "                              \033[1;31mBy Crazy\033[1;36m"
 echo "   SSHPlus" | figlet
 echo -e "\033[1;32m      INFORMACOES E OPCOES DO MENU \033[0m\n\n"
-echo -e " \033[1;37m[\033[1;31m01\033[1;37m] - \033[1;33m Cria usuario ssh"
-echo -e " \033[1;37m[\033[1;31m02\033[1;37m] - \033[1;33m Cria usuario test ssh"
+echo -e " \033[1;37m[\033[1;31m01\033[1;37m] - \033[1;33m Buat Akun SSH"
+echo -e " \033[1;37m[\033[1;31m02\033[1;37m] - \033[1;33m Buat Akun test ssh"
 echo -e " \033[1;37m[\033[1;31m03\033[1;37m] - \033[1;33m Remove usuario ssh"
 echo -e " \033[1;37m[\033[1;31m04\033[1;37m] - \033[1;33m Monitora usuarios ssh e dropbear"
 echo -e " \033[1;37m[\033[1;31m05\033[1;37m] - \033[1;33m Muda data de usuario ssh"
